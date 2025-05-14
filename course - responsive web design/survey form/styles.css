@@ -31,7 +31,6 @@ body.flower-template {
   border: none;
   box-shadow:  0 8px 24px rgba(10, 100, 173, 0.1), 0 1.5px 0 #fff inset;
   text-align: center;
-  position: relative;
   font-size: 1rem;
   color: #272725;
   z-index: 1;
@@ -130,7 +129,7 @@ body.flower-template {
 
 
 .flower-head {
-  width: 550px;;
+  width: 550px;
   height: 250px;
   background: radial-gradient(circle, #ebb8d6, #ee58cd);
   border-radius: 50%;
