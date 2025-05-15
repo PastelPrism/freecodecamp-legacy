@@ -14,11 +14,11 @@ The freeCodeCamp **Legacy Curriculum** I chose to do consists of three main trac
 ### **1️⃣ Responsive Web Design** *(HTML & CSS)*
 This course has the following Certification Projects:
 
-1. [Build a Survey Form](https://pastelprism.github.io/freecodecamp-legacy/responsive-web-design/survey-form/) 🏗️ *for now a placeholder template*
-2. [Build a Tribute Page](https://pastelprism.github.io/freecodecamp-legacy/responsive-web-design/tribute-page/) 🏗️ *for now a placeholder template*
-3. [Build a Technical Documentation Page](https://pastelprism.github.io/freecodecamp-legacy/responsive-web-design/technical-documentation/) 🏗️ *for now a placeholder template*
-4. [Build a Landing Page](https://pastelprism.github.io/freecodecamp-legacy/responsive-web-design/landing-page/)  🏗️ *for now a placeholder template*
-5. [Build a Personal Portfolio Website](https://pastelprism.github.io/freecodecamp-legacy/responsive-web-design/personal-portfolio/) 🏗️ *for now a placeholder template*
+1. [Build a Survey Form](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/survey-form/) 🏗️ *for now a placeholder template*
+2. [Build a Tribute Page](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/tribute-page/) 🏗️ *for now a placeholder template*
+3. [Build a Technical Documentation Page](https://pastelprism.github.io/course-freecodecamp-legacy/responsive-web-design/technical-documentation/) 🏗️ *for now a placeholder template*
+4. [Build a Landing Page](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/landing-page/)  🏗️ *for now a placeholder template*
+5. [Build a Personal Portfolio Website](https://pastelprism.github.io/course-freecodecamp-legacy/responsive-web-design/personal-portfolio/) 🏗️ *for now a placeholder template*
 
 ### **2️⃣ JavaScript Algorithms and Data Structures** *(JavaScript)*
 This course has the following Certification Projects:
