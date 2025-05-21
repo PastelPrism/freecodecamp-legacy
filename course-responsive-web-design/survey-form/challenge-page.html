@@ -1,1 +1,41 @@
-<p>This appears to be empty...</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drawing on paintings - survey</title>
+</head>
+<body>
+    <a href="index.html" class="nav-button">Click here for the extra assignment</a>
+    <h1 id="title">Drawing on paintings survey form</h1>
+    <p id="description">Please fill out this survey form, if you like to draw on paintings.</p>
+    
+    <form id="survey-form">
+        <label id="name-label" for="name">Name:</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+        <label id="email-label" for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <label id="number-label" for="number">Age:</label>
+        <input type="number" id="number" name="age" placeholder="Enter your age" min="6" max="100">
+        <label for="dropdown">Did you ever draw on someone elses painting?:</label>
+        <select id="dropdown">
+            <option value="select-option">Select an option</option>
+            <option value="yes-option">Yes</option>
+            <option value="no-option">No</option>
+        </select>
+        <p>In case of "yes" please continue this survey, in case of "no" please continue to our comment section</p>
+        <p>Choose your reason why:</p>
+        <label><input type="radio" name="reason-why" value="no-reason"> Just because</label>
+        <label><input type="radio" name="reason-why" value="art-reason"> Because art and survey-forms go pretty well together</label>
+        <p>Select your favorite drawing style:</p>
+        <label><input type="checkbox" name="favorite-style" value="interest1"> Crayons</label>
+        <label><input type="checkbox" name="favorite-style" value="interest2"> Markers</label>
+        <label for="comments">Please tell us why you wanted to fill out this survey:</label>
+        <textarea id="comments" name="comments" placeholder="Enter any reason"></textarea>
+        <input type="submit" id="submit" value="Submit">
+    </form>
+     <footer>
+        <p>&copy; 2025 project from freeCodeCamp - made by <a href="https://www.github.com/PastelPrism">Amy</a></p>
+    </footer>
+</body>
+</html>
