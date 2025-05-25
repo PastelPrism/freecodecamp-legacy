@@ -1,8 +1,8 @@
-Hi! 
+Hi! 👋
 
 Welcome to this very unfinished README. 
 This README has hope it will be finished one day.
-I think that's lovely 
+I think that's lovely of it 😊 I'm sure the "Hi!" with wavy hand will stay, but the rest...?
 
 Anyway, the assignments: 
 
@@ -21,6 +21,5 @@ First the original assignment, which is going to be a survey about not writing o
  
 Oh, and I should finish this README. 
 
-The end. 
-
+The end. 🐣
 
