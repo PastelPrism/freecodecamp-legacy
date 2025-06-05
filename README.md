@@ -15,7 +15,7 @@ The freeCodeCamp **Legacy Curriculum** I chose to do consists of three main trac
 This course has the following Certification Projects:
 
 1. [Build a Survey Form](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/survey-form/) ✔️ 
-2. [Build a Tribute Page](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/tribute-page/) 🏗️ *for now a placeholder template*
+2. [Build a Tribute Page](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/tribute-page/) ✔️
 3. [Build a Technical Documentation Page](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/technical-documentation-page/) 🏗️ *for now a placeholder template*
 4. [Build a Landing Page](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/landing-page/)  🏗️ *for now a placeholder template*
 5. [Build a Personal Portfolio Website](https://pastelprism.github.io/freecodecamp-legacy/course-responsive-web-design/personal-portfolio-website/) 🏗️ *for now a placeholder template*
@@ -24,8 +24,8 @@ This course has the following Certification Projects:
 This course has the following Certification Projects:
 
 1. [Build a Palindrome Checker Project](https://pastelprism.github.io/freecodecamp-legacy/course-javascript-algorithms-and-data-structures/build-a-palindrome-checker/) 🏗️ *for now a placeholder template*
-2. Build a Roman Numeral Converter Project 🏗️
-3. Build a Telephone Number Validator Project 🏗️
+2. [Build a Roman Numeral Converter Project](https://pastelprism.github.io/freecodecamp-legacy/course-javascript-algorithms-and-data-structures/build-a-roman-numeral-converter/) 🏗️ *for now a placeholder template*
+3. Build a Telephone Number Validator Project🏗️
 4. Build a Cash Register Project 🏗️
 5. Build an RPG Creature Search App Project 🏗️
 
